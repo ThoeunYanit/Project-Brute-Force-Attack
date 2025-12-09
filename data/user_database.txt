@@ -1,0 +1,9 @@
+yanit : 999
+doggie : 123
+poppy : 123
+ajax : 222
+jelly : 222
+dani : qwerty@12
+messi : goat
+ronaldo : suii
+mbappe : apple
